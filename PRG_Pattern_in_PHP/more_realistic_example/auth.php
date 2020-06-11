@@ -15,7 +15,7 @@ if (isset($_SESSION["username"])) {
     "anotheruser" => "password"
   ];
 
-  // And is the data from the form
+  // And here is the data from the form
   $username = $_POST["username"];
   $password = $_POST["password"];
 
