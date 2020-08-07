@@ -1,0 +1,30 @@
+.form__input__outer {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  border: 2px solid #fff;
+  border-radius: 4px;
+  margin: 0px auto;
+}
+
+.form__input__outer:not(:last-of-type) {
+  margin: 7px auto;
+}
+
+.form__input__icon {
+  width: 30px;
+  height: 40px;
+}
+
+.form__input {
+  border: none;
+  width: calc(100% - 50px);
+  height: 45px;
+  padding: 5px 9px;
+  font-size: 20px;
+}
+
+.form__input__icon__outer {
+  width: 50px;
+  height: 40px;
+}

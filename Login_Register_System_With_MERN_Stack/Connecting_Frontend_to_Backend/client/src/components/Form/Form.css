@@ -1,0 +1,19 @@
+.form {
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  width: 80%;
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 3px;
+  font-size: 30px;
+  color: #fff;
+  font-weight: lighter;
+  padding: 7px 0px;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-top: 15px;
+  letter-spacing: 2px;
+}

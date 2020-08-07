@@ -1,0 +1,61 @@
+.login {
+  width: 95vw;
+  max-width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  margin: 15px 0px;
+}
+
+.login .avatar {
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.login .avatar__icon {
+  width: 120px;
+  height: 120px;
+  margin: 0px auto;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.login .avatar__icon::before {
+  content: "";
+  width: 85%;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  left: -85%;
+}
+
+.login .avatar__icon::after {
+  content: "";
+  width: 85%;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  right: -85%;
+}
+
+.login .avatar__icon__svg {
+  width: 70px;
+  height: 70px;
+}
+
+.register_link {
+  margin-top: 25px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+.register_link:hover {
+  text-decoration: underline;
+}

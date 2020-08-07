@@ -1,0 +1,9 @@
+.home {
+  min-height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0px;
+  font-size: calc(1.5em + 1.3vw);
+  text-align: center;
+}
