@@ -1,7 +1,6 @@
 import os
 import pyxhook
 import random
-import argparse
 from os import path, listdir
 import re
 
