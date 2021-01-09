@@ -15,3 +15,6 @@ Code Samples for my articles at [iC0dE Magazine](https://icodemag.com/).
 [Code](Login_Register_System_With_MERN_Stack/Connecting_Frontend_to_Backend) for article => [How to Build a Login/Register App with the MERN Stack (Part 5): Connecting Frontend to Backend](https://icodemag.com/how-to-build-a-login-register-app-with-the-mern-stack-part-5-connecting-frontend-to-backend/)
 
 [Code](Login_Register_System_With_MERN_Stack/Deploying) for article => [How to Build a Login/Register App with the MERN Stack (Part 6): Deploying](https://icodemag.com/how-to-build-a-login-register-app-with-the-mern-stack-part-6-deploying/)
+
+[Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/how-to-build-a-keyboard-sound-simulator-in-python-for-linux)
+
