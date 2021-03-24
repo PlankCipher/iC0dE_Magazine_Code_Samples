@@ -16,6 +16,5 @@ Code Samples for my articles at [iC0dE Magazine](https://icodemag.com/).
 
 [Code](Login_Register_System_With_MERN_Stack/Deploying) for article => [How to Build a Login/Register App with the MERN Stack (Part 6): Deploying](https://icodemag.com/how-to-build-a-login-register-app-with-the-mern-stack-part-6-deploying/)
 
-[Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/how-to-build-a-keyboard-sound-simulator-in-python-for-linux) (Not published yet)
-
-[Code](Parsing_Command_Line_Arguments_in_Python_with_Argparse) for article => [Argparse: Parsing Command Line Arguments and Options in Python](https://icodemag.com/argparse-parsing-command-line-arguments-and-options-in-python) (Not published yet)
+[Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/how-to-build-a-keyboard-sound-simulator-in-python-for-linux)
+[Code](Parsing_Command_Line_Arguments_in_Python_with_Argparse) for article => [Argparse: Parsing Command Line Arguments and Options in Python](https://icodemag.com/argparse-parsing-command-line-arguments-and-options-in-python)
