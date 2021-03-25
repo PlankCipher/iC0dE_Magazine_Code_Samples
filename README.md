@@ -4,7 +4,7 @@ Code Samples for my articles at [iC0dE Magazine](https://icodemag.com/).
 
 **Here is my [profile](https://icodemag.com/author/youssefashour/).**
 
-[Code samples](PRG_Pattern_in_PHP) for article => [PRG Pattern in PHP: What, Why, and How](https://icodemag.com/prg-pattern-in-php-what-why-and-how/)
+[Code](PRG_Pattern_in_PHP) for article => [PRG Pattern in PHP: What, Why, and How](https://icodemag.com/prg-pattern-in-php-what-why-and-how/)
 
 [Code](Login_Register_System_With_MERN_Stack/Setting_Up_the_Database) for article => [How to Build a Login/Register App with the MERN Stack (Part 2): Setting Up the Database](https://icodemag.com/how-to-build-a-login-register-app-with-the-mern-stack-part-2-setting-up-the-database/)
 
@@ -16,5 +16,6 @@ Code Samples for my articles at [iC0dE Magazine](https://icodemag.com/).
 
 [Code](Login_Register_System_With_MERN_Stack/Deploying) for article => [How to Build a Login/Register App with the MERN Stack (Part 6): Deploying](https://icodemag.com/how-to-build-a-login-register-app-with-the-mern-stack-part-6-deploying/)
 
-[Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/how-to-build-a-keyboard-sound-simulator-in-python-for-linux)
-[Code](Parsing_Command_Line_Arguments_in_Python_with_Argparse) for article => [Argparse: Parsing Command Line Arguments and Options in Python](https://icodemag.com/argparse-parsing-command-line-arguments-and-options-in-python)
+[Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/keyboard-sound-simulator-in-python/)
+
+[Code](Getting Started with Python’s Argparse) for article => [Getting Started with Python’s Argparse](https://icodemag.com/python-argparse/)
