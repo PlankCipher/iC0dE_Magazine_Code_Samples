@@ -18,4 +18,4 @@ Code Samples for my articles at [iC0dE Magazine](https://icodemag.com/).
 
 [Code](Keyboard_Sound_Simulator_in_Python) for article => [How to Build a Keyboard Sound Simulator in Python for Linux](https://icodemag.com/keyboard-sound-simulator-in-python/)
 
-[Code](Getting Started with Python’s Argparse) for article => [Getting Started with Python’s Argparse](https://icodemag.com/python-argparse/)
+[Code](Parsing_Command_Line_Arguments_in_Python_with_Argparse) for article => [Getting Started with Python’s Argparse](https://icodemag.com/python-argparse/)
